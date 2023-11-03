@@ -1,0 +1,22 @@
+#education{
+    direction: rtl;
+}
+#healthcare{
+    direction: rtl;
+}
+h6{
+    padding: 20px;
+    margin: 2px;
+    border: 2px solid black;
+    text-align: center;
+}
+a:hover{
+    color: black;
+}
+a{
+    color: rgb(161, 156, 156);
+    text-decoration: none;
+}
+p{
+    color: rgb(161, 156, 156);
+}
